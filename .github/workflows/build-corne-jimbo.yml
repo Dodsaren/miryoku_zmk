@@ -13,3 +13,4 @@ jobs:
       kconfig: '["CONFIG_ZMK_POINTING=y"]'
       alphas: '["qwerty"]'
       nav: '["vi"]'
+      clipboard: '["fun"]'
